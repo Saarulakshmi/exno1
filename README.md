@@ -24,8 +24,8 @@ STEP 6: Use zscore of to remove outliers
             
 ## Data Cleaning
 
-#### DEVELPOED BY : RAKSHITHA J
-#### REG NO : 212223240135
+#### DEVELPOED BY : Saaru lakshmi.D
+#### REG NO : 212223050040
 ```
 import pandas as pd
 data=pd.read_csv("SAMPLEIDS.csv")
@@ -213,6 +213,7 @@ df1
 ```
 
 <img width="191" height="336" alt="image" src="https://github.com/user-attachments/assets/94f0399e-1f9d-4f33-b6d2-b7730079e1a2" />
-# Result
+
+## Result
     
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
